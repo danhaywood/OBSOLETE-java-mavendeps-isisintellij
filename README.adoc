@@ -2,6 +2,7 @@
 :_imagesdir: ./
 :toc:
 
+*As of 1.15.0, this module has been moved into Isis core*
 
 This module, for use within link:http://isis.apache.org[Apache Isis] applications, defines a module to run the webapp from within IntelliJ IDE.
 
